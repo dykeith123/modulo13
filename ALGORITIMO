@@ -1,0 +1,20 @@
+1- Descrever um Algoritimo para resolver o problema da travessia de modo "seguro":
+
+Dados Iniciais:
+
+N1 = Lobo
+N2 = Cabra
+N3 = Alfafa
+
+Processamento:
+
+Passo 1 = Levar a Cabra(N2)
+Passo 2 = Levar o Maço de Alfafa(N3)
+Passo 3 = Voltar com a Cabra (N2)
+Passo 4 = Levar o Lobo (N1)
+Passo 5 = Levar a Cabra (N2)
+
+Resultado:
+
+N1 não ficou sozinho com N2, nem N2 ficou sozinho com N3.
+Portanto, todos foram atravessados com segurança.
